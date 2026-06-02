@@ -1,0 +1,30 @@
+# AcornsGuide v2
+
+> AcornsGuide is an independent review and comparison site for Acorns investing app users. Reviews, fee analysis, competitor comparisons, and how-to guides for US investors.
+
+## Pages
+
+- [Acorns Investing App 2026 — Honest Review & Bonus Offer | AcornsGuide](https://brightlane.github.io/acorns/) — AcornsGuide is the independent resource for Acorns investors. Compare plans, understand fe
+- [How Acorns Works 2026 — The Complete Mechanics Guide](https://brightlane.github.io/acorns/how-acorns-works.html) — Exactly how Acorns invests your money in 2026. Round-Ups, recurring investments, portfolio
+- [Acorns App Full Review 2026 — Every Feature Tested & Rated](https://brightlane.github.io/acorns/acorns-review.html) — The most thorough Acorns review for 2026. Every feature tested, every fee calculated, port
+- [Acorns vs Robinhood 2026 — Which App Builds More Wealth?](https://brightlane.github.io/acorns/acorns-vs-robinhood.html) — Acorns vs Robinhood compared for 2026. Which app actually grows your wealth better? We com
+- [Acorns vs Betterment 2026 — Two Robo-Advisors Compared](https://brightlane.github.io/acorns/acorns-vs-betterment.html) — Acorns vs Betterment compared for 2026. Which robo-advisor has better portfolios, lower fe
+- [Acorns vs Stash 2026 — Which $3/Month App Is Worth It?](https://brightlane.github.io/acorns/acorns-vs-stash.html) — Acorns vs Stash both cost $3/month but work very differently. We compare every feature, re
+- [Acorns vs Wealthfront 2026 — Beginner App vs Advanced Robo-Advisor](https://brightlane.github.io/acorns/acorns-vs-wealthfront.html) — Acorns vs Wealthfront compared for 2026. When does it make sense to switch from Acorns to 
+- [Acorns Round-Ups 2026 — How to Maximize Your Spare Change](https://brightlane.github.io/acorns/acorns-round-ups.html) — The complete guide to Acorns Round-Ups in 2026. How they actually work, multipliers, how m
+- [Acorns Later IRA Guide 2026 — Roth vs Traditional & How to Maximize It](https://brightlane.github.io/acorns/acorns-later-ira.html) — Complete guide to Acorns Later IRA in 2026. Roth vs Traditional comparison, contribution l
+- [Acorns Fees 2026 — The Real Cost at Every Balance Level](https://brightlane.github.io/acorns/acorns-fees.html) — Every Acorns fee explained for 2026. Monthly plan costs, ETF expense ratios, the fee cross
+- [Acorns Portfolios Explained 2026 — Which One Is Right for You?](https://brightlane.github.io/acorns/acorns-portfolios.html) — Every Acorns portfolio option explained for 2026. Conservative, Moderate, Aggressive, ESG,
+- [How to Open an Acorns Account 2026 — Step-by-Step Setup Guide](https://brightlane.github.io/acorns/acorns-sign-up.html) — Complete step-by-step guide to opening an Acorns account in 2026. Everything from registra
+- [Acorns Promo Code June 2026 — Best Bonus Offer for New Accounts](https://brightlane.github.io/acorns/acorns-promo-code.html) — Find the best Acorns promo code and sign-up bonus for June 2026. Our affiliate link unlock
+- [Acorns Early 2026 — Investing for Your Kids Made Automatic](https://brightlane.github.io/acorns/acorns-early.html) — Complete guide to Acorns Early custodial accounts in 2026. How UTMA/UGMA accounts work, wh
+- [Acorns Earn 2026 — Get Free Investments From Everyday Shopping](https://brightlane.github.io/acorns/acorns-earn.html) — How Acorns Earn works in 2026. Earn bonus investments at 450+ brands including Apple, Walm
+- [Acorns for Beginners 2026 — Zero to Investor in 10 Minutes](https://brightlane.github.io/acorns/acorns-for-beginners.html) — The complete beginner's guide to Acorns investing in 2026. What you need to know before yo
+- [Is Acorns Safe? 2026 — SEC Registration, SIPC Protection & Security](https://brightlane.github.io/acorns/is-acorns-safe.html) — Is Acorns safe to use in 2026? Complete security review covering regulatory oversight, SIP
+- [How to Withdraw Money from Acorns 2026 — Timing, Taxes & Steps](https://brightlane.github.io/acorns/acorns-withdraw.html) — Step-by-step guide to withdrawing money from Acorns in 2026. How long it takes, tax implic
+- [Acorns Tax Guide 2026 — Everything You Owe on Your Investments](https://brightlane.github.io/acorns/acorns-tax-guide.html) — Complete Acorns tax guide for 2026. What forms Acorns sends, how capital gains and dividen
+- [Compound Interest & Acorns 2026 — Real Numbers on Long-Term Growth](https://brightlane.github.io/acorns/acorns-compound-interest.html) — How compound interest transforms small Acorns investments into serious wealth. Real growth
+
+## Affiliate Disclosure
+
+AcornsGuide earns commissions when users sign up via our affiliate links. All sponsored links are marked. Investing involves risk. Not financial advice.
